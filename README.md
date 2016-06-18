@@ -18,7 +18,7 @@
   Cieľom je získať výslednú dátovú štruktúru (Pandas DataFrame), ktorý by obsahoval všetko v jednom:
   KRAJ, OKRES, OBEC, ULICA, GPS (LATITUDE,LONGITUDE)
 
-  Následne pochopiteľne túto datovú štruktúru uložíme do excel/CSV formátu podľa potreby...
+  Následne pochopiteľne túto datovú štruktúru uložíme do excel/CSV formátu podľa potreby... <br>
   Takže začíname tu : [1. Kapitola : Od excelu k Pandas Data Frame] (./obce_and_ulice.ipynb)
   
   
