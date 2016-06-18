@@ -1,5 +1,5 @@
 # PANDAS knižnica programovacieho jazyka Python3
-*Let's playing with datas*
+*Let's Playing With Datas*
 
 
   V krátkosti sa pokúsim demonštrovať základné možnosti knižnice PANDAS na dátach, ktoré obsahujú onformácie z krajov, okresov, obcí a ulíc SR. Uvedené dáta boli získané z adresy : [Poštové Smerovacie Čísla] (http://www.posta.sk/sluzby/postove-smerovacie-cisla).
