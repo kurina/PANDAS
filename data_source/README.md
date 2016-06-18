@@ -3,4 +3,4 @@
 Súbory v EXCEL tvare boli stiahnuté z www.posta.sk (Viď. hlavný README.md). 
 Súbory v CSV tvare boli vyexportované mnou...
   
-                                                                                      Ing. Tibor Kurina, Ph.D.
+                                                                           Ing. Tibor Kurina, Ph.D.
