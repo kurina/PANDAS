@@ -13,7 +13,7 @@
   ULICE.xlsx
   POBoxy.xlsx
   
-  Pre moje potreby som použil súbory OBCE.xlsx a ULICE.xlsx. PANDAS dokáže samozrejme pracovať buď stýmto formátom (avšak je potrebné mať nainštalovaný modul xlrd a následne je ptrebné ho aj naimportovať...), alebo ak excelovský tvar prevedete do CSV formátu tak priamo aj sním. 
+  Pre **moje** potreby som použil súbory OBCE.xlsx a ULICE.xlsx. PANDAS dokáže samozrejme pracovať buď stýmto formátom (avšak je potrebné mať nainštalovaný modul xlrd a následne je ptrebné ho aj naimportovať...), alebo ak excelovský tvar prevedete do CSV formátu tak priamo aj sním. 
   
   V príklade budú uvedené oba prístupy.
   
